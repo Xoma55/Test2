@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="6247bc44-5f02-488b-9044-b85e43ceb5ba" name="kingleads.pro" url="http://kingleads.pro">
+        <fileTransfer host="kingleads.pro" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="a1ac03f4-1caf-4aab-90aa-c362f211302d" name="cabinet.kingleads.pro" url="http://kingleads.pro">
+        <fileTransfer host="kingleads.pro" port="21" rootFolder="/web">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="2ff572c4-4cdf-40bf-a3f9-b16f1a56f27c" name="store.kingleads.pro" url="http://kingleads.pro">
+        <fileTransfer host="kingleads.pro" port="21" rootFolder="/web">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
